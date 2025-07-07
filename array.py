@@ -12,6 +12,9 @@ class Solution(object):
             nums1[i] = nums2[j]
             j+=1
 
+
+        #hekllll
+
         nums1 = nums1.sort()
 
 
