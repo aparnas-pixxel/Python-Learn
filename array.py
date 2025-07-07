@@ -13,7 +13,6 @@ class Solution(object):
             j+=1
 
 
-        #hekllll
 
         nums1 = nums1.sort()
 
